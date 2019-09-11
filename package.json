@@ -1,0 +1,14 @@
+{
+  "name": "anti-captcha",
+  "version": "1.0.0",
+  "description": "Descifrar captcha con el sitio anticaptcha ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "el linfe",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.19.0"
+  }
+}
